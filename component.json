@@ -1,0 +1,10 @@
+{
+    "name": "nat-lato",
+    "version": "0.0.1",
+    "main": [
+        "app/css/nat-lato"
+    ],
+    "dependencies": {
+        "jquery": ">=2.1.1"
+    }
+}

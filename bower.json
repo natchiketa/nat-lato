@@ -1,0 +1,39 @@
+{
+    "name": "nat-lato",
+    "version": "0.0.1",
+    "title": "nat-lato",
+    "appPath": "app",
+    "description": "Full version of Lato typeface with all variants not included by Google Fonts",
+    "keywords": [
+        "fonts",
+        "lato"
+    ],
+    "homepage": "https://github.com/natchiketa/nat-lato",
+    "author": {
+        "name": "Sal Lara"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/natchiketa/nat-lato.git"
+    },
+    "bugs": "https://github.com/natchiketa/nat-lato/issues",
+    "dependencies": {
+        "jquery": ">=2.1.1"
+    },
+    "main": [
+        "app/css/nat-lato"
+    ],
+    "ignore": [
+        "/*.*",
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "app/bower_components",
+        "test",
+        "tests"
+    ],
+    "authors": [
+        "Sal Lara <sal.lara@gmail.com>"
+    ],
+    "license": "MIT"
+}
