@@ -3,6 +3,8 @@
     "dependencies": {},
     "repository": "https://github.com/natchiketa/nat-lato.git",
     "description": "Full version of Lato typeface with all variants not included by Google Fonts",
+    "name": "nat-lato",
+    "main": "nat-lato.json",
     "devDependencies": {
         "grunt-express": "^1.4.0",
         "grunt-bower-install": "^1.6.0",

@@ -1,0 +1,25 @@
+{
+    "name": "Lato",
+    "files": [
+      { "weight": 200, "format": "woff", "style": "normal", "file": "./css/lato-thin-webfont.woff" },
+      { "weight": 300, "format": "woff", "style": "normal", "file": "./css/lato-regular-webfont.woff" },
+      { "weight": 400, "format": "woff", "style": "normal", "file": "./css/lato-semibold-webfont.woff" },
+      { "weight": 500, "format": "woff", "style": "normal", "file": "./css/lato-bold-webfont.woff" },
+      { "weight": 600, "format": "woff", "style": "normal", "file": "./css/lato-black-webfont.woff" },
+      { "weight": 200, "format": "truetype", "style": "normal", "file": "./css/lato-thin-webfont.ttf" },
+      { "weight": 300, "format": "truetype", "style": "normal", "file": "./css/lato-regular-webfont.ttf" },
+      { "weight": 400, "format": "truetype", "style": "normal", "file": "./css/lato-semibold-webfont.ttf" },
+      { "weight": 500, "format": "truetype", "style": "normal", "file": "./css/lato-bold-webfont.ttf" },
+      { "weight": 600, "format": "truetype", "style": "normal", "file": "./css/lato-black-webfont.ttf" },
+      { "weight": 200, "format": "embedded-opentype", "style": "normal", "file": "./css/lato-thin-webfont.eot" },
+      { "weight": 300, "format": "embedded-opentype", "style": "normal", "file": "./css/lato-regular-webfont.eot" },
+      { "weight": 400, "format": "embedded-opentype", "style": "normal", "file": "./css/lato-semibold-webfont.eot" },
+      { "weight": 500, "format": "embedded-opentype", "style": "normal", "file": "./css/lato-bold-webfont.eot" },
+      { "weight": 600, "format": "embedded-opentype", "style": "normal", "file": "./css/lato-black-webfont.eot" },
+      { "weight": 200, "format": "svg", "style": "normal", "file": "./css/lato-thin-webfont.svg" },
+      { "weight": 300, "format": "svg", "style": "normal", "file": "./css/lato-regular-webfont.svg" },
+      { "weight": 400, "format": "svg", "style": "normal", "file": "./css/lato-semibold-webfont.svg" },
+      { "weight": 500, "format": "svg", "style": "normal", "file": "./css/lato-bold-webfont.svg" },
+      { "weight": 600, "format": "svg", "style": "normal", "file": "./css/lato-black-webfont.svg" }
+    ]
+}
